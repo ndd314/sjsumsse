@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Widget()
+comment1.params=observerName\ observer
+comment1.target=void\ attachObserver(java.lang.String,\ InputObserver)
+comment2.params=observerName
+comment2.target=void\ detachObserver(java.lang.String)
+comment3.params=display
+comment3.target=void\ notifyObserver(java.lang.String)
+numComments=4

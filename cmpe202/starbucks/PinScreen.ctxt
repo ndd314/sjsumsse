@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PinScreen()
+comment1.params=
+comment1.target=java.lang.String\ display()
+comment2.params=
+comment2.target=void\ topLeftCommand()
+comment3.params=
+comment3.target=void\ topRightCommand()
+comment4.params=x\ y
+comment4.target=void\ touch(int,\ int)
+numComments=5

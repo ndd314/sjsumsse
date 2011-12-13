@@ -1,0 +1,20 @@
+#BlueJ package file
+package.editor.height=824
+package.editor.width=1562
+package.editor.x=43
+package.editor.y=77
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=false
+project.charset=UTF-8
+readme.editor.height=700
+readme.editor.width=900
+readme.editor.x=0
+readme.editor.y=0
+target1.height=62
+target1.name=payonthego
+target1.type=PackageTarget
+target1.width=90
+target1.x=70
+target1.y=10

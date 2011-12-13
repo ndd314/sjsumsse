@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ThreePinState()
+comment1.params=
+comment1.target=ThreePinState\ getInstance()
+comment2.params=
+comment2.target=PasscodeState\ backspace()
+comment3.params=input
+comment3.target=PasscodeState\ number(java.lang.String)
+comment4.params=input
+comment4.target=void\ setPasscode(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getPasscode()
+comment6.params=
+comment6.target=int\ getState()
+numComments=7

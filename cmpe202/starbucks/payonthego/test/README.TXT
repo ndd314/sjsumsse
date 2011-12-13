@@ -1,0 +1,1 @@
+1. Right click on each test and select "Test All"
